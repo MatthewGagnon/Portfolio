@@ -11,7 +11,7 @@ _______________________________________________________________________________
 DESIGNER | デザイナー
 
 Matthew Gagnon
-Hand crafted design & web development
+Computer Science student
 
 Design tools:
 Figma
